@@ -1,8 +1,7 @@
-# React + Vite
+# Website Description
+This is a front-end React developer task for this website. We call this website Miro. Miro is the visual platform that your team uses to communicate, work together, and create.
+This website's frontend design was all I worked on. For this website, I used React.js, Tailwind CSS, HTML, and React hooks to manage the state. This website is responsive on desktop, laptop, and mobile devices.
+Netlify was used to deploy this website.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Live site- https://lucky-crisp-f6fedc.netlify.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
